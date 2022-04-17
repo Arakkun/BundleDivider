@@ -1,2 +1,2 @@
 # BundleDivider
-Divide your humble bundle, maybe even your
+Divide your humble bundle, maybe even your dinner
